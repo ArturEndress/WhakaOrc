@@ -1,0 +1,6 @@
+5
+0 zombie imagens/troll1.png 4 7
+1 zombie2 imagens/troll2.png 4 7 
+2 zombie3 imagens/troll3.png 4 7
+3 zombie4 imagens/troll4.png 4 7
+4 zombie5 imagens/troll5.png 4 7
