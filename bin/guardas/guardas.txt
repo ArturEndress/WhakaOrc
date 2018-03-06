@@ -1,0 +1,2 @@
+1
+0 guarda imagens/muro.png 1 1
